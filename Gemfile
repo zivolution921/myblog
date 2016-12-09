@@ -6,6 +6,8 @@ gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
 
 gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
 # Use Puma as the app server
